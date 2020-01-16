@@ -101,11 +101,11 @@ tab and follow these steps:
 
 **Step 4:**
 
-![](img/deployment-4.png)
+![](img/deployment.png)
 
 **Step 5:** Your GitHub code has been deployed to Azure
 
-![](img/deployment-5.png)
+![](img/deployment.png)
 
 ### One last thing
 
@@ -119,5 +119,5 @@ So the last step is to go to the **Application settings** and add the following 
 ![](img/startup-file.png)
 
 Now go check your webiste URL (you'll probably need to refresh it a couple of times). It should show the 
-"Hello, SmartNinja!" text.
+"PROJECT " text.
 "# azure-flask-test" 
