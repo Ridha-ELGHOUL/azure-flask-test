@@ -11,7 +11,7 @@ def translation(text, target):
 
 @app.route("/")
 def hello():
-    return " From Azure Test - TRANS-ATN-Project!"
+    return " From Azure Test - TRANS-ATN-Project ! Your API is running ..."
 
 @app.route('/msgTranslator', methods=['POST'])
 def post():
